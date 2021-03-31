@@ -1,4 +1,22 @@
-## reuniao_2021-03-12
+## 2021-01-21
+.. escreveu por e-mail ..
+Boa noite professor, tudo bem?
+
+Esse semestre começo a primeira parte do meu TCC (TCC I).
+
+Não tenho exatamente uma ideia formada, mas estou pensando em aproveitar que tenho boa parte dos dispositivos da maçã (Mac, iPhone, Watch, bem fã boy infelizmente) e fazer algo que utilize alguma tecnologia que a própria Apple disponibiliza, seja em linguagem de programação ou em hardware. Andei vendo algumas coisas sobre o Lidar, mas não sei até que ponto pode ser algo proveitoso ou o quanto eu conseguiria explorar desse hardware. Por esse motivo resolvi procurar você.
+
+Podemos marcar algo para alinhar esses pontos?
+
+Agradeço desde já!
+Att, Bruno
+
+------------
+## 2021-02-25
+Respondi a msg e-mail para conversar sobre orientação de TCC.
+
+------------
+## 2021-03-12
 Acho que possou e acabei esquencendo de responder as suas dúvidas anteriores.
 
 _ Famosas 4 perguntas (por quê, o que, como e para quem)
@@ -13,7 +31,6 @@ ias conseguir comprar o iPhone com LIDAR. Mas agora podemos trazer a palavra
 mobilidade para o seu título. E sim, pode aparecer algo, mas não sei se seria no
 título, talvez nos objetivos com "utilizar ambientes não estruturados" ... algo
 como ambiente não controlado.
-
 
 ##### Acessibilidade usando LIDAR com atuadores de orientação
 Numa pesquisa rápida, achei um vídeo (https://youtu.be/8Au47gnXs0w) onde a
