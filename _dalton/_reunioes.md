@@ -48,3 +48,6 @@ Eheh, achei a ideia muito boa.
 Poderias usar como base o TCC acima.
 
 ------------
+#### 2021-05-03
+##### Defesa Pré-projeto
+[Anotações de defesa do Pré-projeto](./tcc_BrunoHenriqueBorba_2021-05-03_PreProjeto_Defesa.md)
