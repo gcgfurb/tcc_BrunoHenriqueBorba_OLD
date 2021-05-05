@@ -2,7 +2,7 @@
 ## [video](./tcc_BrunoHenriqueBorba_2021-05-03_PreProjeto_Defesa.mp4)
 
 Inicio: 15:00<br>
-Fim: 15:09 -> 09 minutos
+Fim: 15:23
 
 #### Prof. Miguel
 - Pensar em como vai ficar fixo no usuário?
