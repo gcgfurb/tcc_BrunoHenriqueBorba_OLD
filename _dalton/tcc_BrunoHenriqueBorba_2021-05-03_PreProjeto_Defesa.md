@@ -1,7 +1,7 @@
 ## Banca: prof. Miguel
 ## [video](./tcc_BrunoHenriqueBorba_2021-05-03_PreProjeto_Defesa.mp4)
 ## [revisão banca Andreza](./tcc_BrunoHenriqueBorba_2021-05-03_PreProjeto_banca_Andreza.pdf)
-## [revisão banca Luciana](./tcc_BrunoHenriqueBorba_2021-05-03_PreProjeto_banca_Miguel.pdf)
+## [revisão banca Miguel](./tcc_BrunoHenriqueBorba_2021-05-03_PreProjeto_banca_Miguel.pdf)
 
 Inicio: 15:00<br>
 Fim: 15:23
