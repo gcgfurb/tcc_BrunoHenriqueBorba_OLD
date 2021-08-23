@@ -61,3 +61,26 @@ Obstáculos: Objetos
 - formas:  
 - profundidade: altura (escada)  
 - alternação de ser um obstáculo ou não  
+
+## 2021-08-23
+
+- testar distância (colocaria uma trena):  
+  - background fixo (branco)  
+  - foreground fixo (preta) menor background (poder borda)  
+    variável: distancia do celular  
+  - celular fixo:
+    variável: foreground
+  .. testar limites ... até onde ele "enxerga".
+
+- testar abertura do campo de visão lateral:  
+    a distância máxima (sem erro)  
+      colocar o foreground nas bordas  
+        fita adessiva mostrar onde ele "enxerda"  
+
+- testes de cor:  
+   foreground: variar a cor  
+   foreground: variar a matiz (brilho)  
+   background: variar a cor  
+
+- testes de variações de luz do ambiente
+  medidor de luz  
